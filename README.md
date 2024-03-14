@@ -16,3 +16,12 @@ You can also use `ng generate directive|pipe|service|class|guard|interface|enum|
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Angular + Spring Boot
+
+We will use an Angular app for client side :
+View Templates + Components + Services
+
+We will use a Spring Boot app on the server side :
+Spring Rest Controller + Spring Data JPA
+
+## DataBase :
